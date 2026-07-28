@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.next
+notion-ids.json
+.vercel
+.env*
+!.env.local.example
+tsconfig.tsbuildinfo
